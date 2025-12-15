@@ -1,0 +1,13 @@
+fintrix\dao\TransaccionDAO.class
+fintrix\controller\UsuarioController.class
+fintrix\dao\UsuarioDAO.class
+fintrix\controller\CategoriaController.class
+fintrix\dao\CuentaDAO.class
+fintrix\dao\CategoriaDAO.class
+fintrix\dao\Conexion.class
+fintrix\model\Categoria.class
+fintrix\model\Transaccion.class
+fintrix\model\Cuenta.class
+fintrix\controller\TransaccionController.class
+fintrix\model\Usuario.class
+fintrix\controller\CuentaController.class
